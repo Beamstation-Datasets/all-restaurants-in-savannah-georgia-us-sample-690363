@@ -1,0 +1,12 @@
+{
+  "export_job_id": "fb774d28-5dca-43f4-a2e6-6bf1d088e4d7",
+  "id_short": 690363,
+  "published_at": "2026-04-14T19:42:38Z",
+  "repo_name": "all-restaurants-in-savannah-georgia-us-sample-690363",
+  "sample_asset_name": "beamstation_690363_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/690363/beamstation_690363_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_records": 76,
+  "sample_sha256": "57c5f969eb367e6ed33cccc8c40ee45579794b3404f5d3225eb4b88da9e667c1",
+  "sample_size_bytes": 301794,
+  "total_records": 297
+}
