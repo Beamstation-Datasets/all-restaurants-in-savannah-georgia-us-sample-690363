@@ -1,6 +1,6 @@
 # All Restaurants in Savannah, Georgia, US
 
-> Free BeamStation sample export with 76 rows and masked direct-contact fields.
+> Free BeamStation sample export with 59 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `690363` |
 | Location | Savannah |
 | Category | Restaurants |
-| Full dataset size | 760 records |
-| Free sample size | 76 records (10.0%) |
-| Last export | 2026-04-14T16:21:05.431935+00:00 |
+| Full dataset size | 596 records |
+| Free sample size | 59 records (9.9%) |
+| Last export | 2026-04-21T17:46:18.552682+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-savannah-georgia-us-sample-690363/releases/download/sample-latest/beamstation_690363_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
